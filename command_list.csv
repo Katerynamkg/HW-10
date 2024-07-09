@@ -5,18 +5,18 @@
     5  cd /ekate/Documents/
     6  git status
     7  git init
-    8  git config user.name "Anna'
+"    8  git config user.name ""Anna'"
     9  q
    10  Kateryna
    11  
-   12  git config user.name "Kateryna"
-   13  git config user.email "ekaterinamkg@gmail.com"
+"   12  git config user.name ""Kateryna"""
+"   13  git config user.email ""ekaterinamkg@gmail.com"""
    14  git status
    15  git add tickets/index.html
    16  git status
    17  git add tickets
    18  git status
-   19  git commit -m "new project"
+"   19  git commit -m ""new project"""
    20  git status
    21  git log
    22  git log
@@ -24,13 +24,13 @@
    24  git add .
    25  git status
    26  git status
-   27  git commit -a -m "change label
+"   27  git commit -a -m ""change label"
    28  '
    29  clear
    30  \
    31  git add .
    32  git status
-   33  git commit -a -m "change label"
+"   33  git commit -a -m ""change label"""
    34  git status
    35  git push
    36  git remote add origin https://github.com/Katerynamkg/Travel-landing.git
@@ -40,7 +40,7 @@
    40  git push -u origin main
    41  git push -u origin main
    42  git status
-   43  git commit -a -m "delete file"
+"   43  git commit -a -m ""delete file"""
    44  git push
    45  git init
    46  git commit -m Oculus
@@ -56,60 +56,60 @@
    56  git push -u origin main
    57  git init
    58  git add README.md
-   59  git commit -m "first commit"
+"   59  git commit -m ""first commit"""
    60  git init
    61  gir add .
-   62  git commit -m "first commit"
+"   62  git commit -m ""first commit"""
    63  git add
    64  gst add .
    65  git add .
    66  git add .
-   67  git commit -m "first commit"
+"   67  git commit -m ""first commit"""
    68  git remote add origin https://github.com/Katerynamkg/Travel_landing-page.git
    69  git branch -m main
    70   git remote add origin https://github.com/Katerynamkg/Travel_landing-page.git
    71  git push -u  origin main
    72  git init
    73  git add .
-   74  git commit -m "first commit"
+"   74  git commit -m ""first commit"""
    75  git dranch -M main
    76  git branch -M main
    77  git remote add origin https://github.com/Katerynamkg/Travel_landing-page.git
    78  git push -u origin main
    79  git init
-   80  git commit -m "first commit"
+"   80  git commit -m ""first commit"""
    81  git add .
-   82  git commit -m "first commit"
+"   82  git commit -m ""first commit"""
    83  git brunch -M main
    84  git branch -M main
    85  git remote add origin https://github.com/Katerynamkg/Room-design.git
    86  git push -u origin main
    87  git init
    88  git add .
-   89  git commit -m "first commit"
+"   89  git commit -m ""first commit"""
    90  git branch -M main
    91  git remote add origin https://github.com/Katerynamkg/Oculus.git
    92  git push -u origin main
    93  git add .
-   94  git commit -m "change glasses"
+"   94  git commit -m ""change glasses"""
    95  git push
    96  git add .
    97  git add .
-   98  git commit -m "change photo" 
+"   98  git commit -m ""change photo"" "
    99  git push
   100  git init
   101  git add .
-  102  git commit -m "first commit"
+"  102  git commit -m ""first commit"""
   103  git branch master
   104  git chekout -b <main>
   105  git init
   106  git add .
-  107  git commit -m "first commit"
+"  107  git commit -m ""first commit"""
   108  git branch -M main
   109  git remote add origin https://github.com/Katerynamkg/Resume.git
   110  git push -u origin main
   111  git add .
-  112  git commit -m "name"
+"  112  git commit -m ""name"""
   113  git push
   114   git add .
   115  git commit contr
@@ -117,27 +117,27 @@
   117  git add .
   118  git commit
   119  git add .
-  120  git commit -m "style"
+"  120  git commit -m ""style"""
   121  got remote
   122  git push
   123  git init
-  124  git commit -m "first commit"
+"  124  git commit -m ""first commit"""
   125  git add .
-  126  git commit -m "first commit"
+"  126  git commit -m ""first commit"""
   127  git branch -M main
   128  git remote add origin https://github.com/Katerynamkg/Resume.git
   129  git push -u origin main
-  130  git commit -m "padding"
+"  130  git commit -m ""padding"""
   131  git add .
   132  git commit
   133  git add .
   134  git commit
   135  git add .
-  136  git commit -m "adaptive"
+"  136  git commit -m ""adaptive"""
   137  git push
-  138  git commit -m "padding"
+"  138  git commit -m ""padding"""
   139  git push
-  140  git commit -m "add addaptive style"
+"  140  git commit -m ""add addaptive style"""
   141  git commit -a
   142  git add .
   143  git add .
@@ -151,25 +151,25 @@
   151  git branch -M main
   152  git commit 
   153  git add .
-  154  git commit -m "adaptive"
+"  154  git commit -m ""adaptive"""
   155  git push
   156  git remote add https://github.com/Katerynamkg/Oculus
   157  git push
   158  git remote add oculus https://github.com/Katerynamkg/Oculus 
   159  git push
   160  git init
-  161  git commit -m "adaptive"
+"  161  git commit -m ""adaptive"""
   162  git branch -M main
   163  git remote add origin https://github.com/Katerynamkg/Oculus_.git
   164  git push -u origin main
   165  git push -u origin main
-  166  git commit -m "adaptive"
+"  166  git commit -m ""adaptive"""
   167  git add .
-  168  git commit -m "adaptive"
+"  168  git commit -m ""adaptive"""
   169  git remote add origin https://github.com/Katerynamkg/Oculus_.git
   170  git push -u origin main
   171  git init
-  172  git commit -m "weather"
+"  172  git commit -m ""weather"""
   173  git branch -M main
   174  [200~git remote add origin https://github.com/Katerynamkg/weater-forecast.git~
   175  git remote add origin https://github.com/Katerynamkg/weater-forecast.git
@@ -182,7 +182,7 @@
   182  [200~git branch -M main~
   183  git push -u origin main
   184  git init
-  185  git commit -m "first commit"
+"  185  git commit -m ""first commit"""
   186  git add
   187  git add .
   188  git status
@@ -199,12 +199,12 @@
   199  git status
   200  git commit
   201  git init
-  202  git-m "first commit"
-  203  git -m "first commit"
+"  202  git-m ""first commit"""
+"  203  git -m ""first commit"""
   204  git branch -M main
   205  git add .
   206  git status
-  207  git commit -m "first commit"
+"  207  git commit -m ""first commit"""
   208  git remote add origin https://github.com/Katerynamkg/Test-cases.git
   209  dit status
   210  git status
@@ -213,7 +213,7 @@
   213  git init
   214  git add .
   215  git status
-  216  git commit -m "commit done bug reports" 
+"  216  git commit -m ""commit done bug reports"" "
   217  git branch -M main
   218  git remote add origin https://github.com/Katerynamkg/Bug-reports.git
   219  git status
@@ -221,15 +221,15 @@
   221  git config --get remote.origin.url
   222  git status
   223  git add .
-  224  git commit -m "refresh"
+"  224  git commit -m ""refresh"""
   225  got push
   226  git push
   227  git config --get remote.origin.url
   228  git status
   229  git add .
-  230  git comit -m "add test cases"
-  231  git commit - "add tests cases"
-  232  git commit -m "add tests cases"
+"  230  git comit -m ""add test cases"""
+"  231  git commit - ""add tests cases"""
+"  232  git commit -m ""add tests cases"""
   233  git push 
   234  man 
   235  man ls
@@ -244,9 +244,9 @@
   244  Desktop %
   245  cd
   246  cd Desktop
-  247  git clone https://github.com/Katerynamkg/HW-10.git
+  247  git clone https://github.com/Katerynamkg/HW_10.git
   248  ls
-  249  cd HW-10
+  249  cd HW_10
   250  touch text_ignore.txt
   251  ls
   252  git status
@@ -254,11 +254,11 @@
   254   vim  .gitignore
   255  git status
   256  git add .
-  257  git commit -m "change .gitignor"
+"  257  git commit -m ""change .gitignor"""
   258  touch main_test.txt
   259  ls
   260  git add .
-  261  git commit -m "add main_test.txt"
+"  261  git commit -m ""add main_test.txt"""
   262  checkout -b develop
   263  git checkout -b develop
   264  touch develop_test.txt
@@ -267,7 +267,7 @@
   267  vim develop_test.txt
   268  git status
   269  git add .
-  270  git commit -m "change develop_test.txt"
+"  270  git commit -m ""change develop_test.txt"""
   271  git checkout main
   272  git merge develop
   273  git log
